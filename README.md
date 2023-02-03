@@ -21,8 +21,8 @@
 >개발 기간: 2022.12.14 ~ 2023.01.25
 >  
 >개발환경 및 라이브러리 :  
->Java 8 / Spring Boot / Mybatis
->JSP / HTML / CSS / jQuery / JSON / Ajax
->MySQL / MariaDB / STS / Docker / Oracle Cloud 
+>Java 8 / Spring Boot / Mybatis  
+>JSP / HTML / CSS / jQuery / JSON / Ajax  
+>MySQL / MariaDB / STS / Docker / Oracle Cloud  
 >  
 >[프로젝트 상세 설명](https://github.com/dev-yujeong/eleven) 참고
