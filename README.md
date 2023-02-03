@@ -20,8 +20,9 @@
 >엔터테인먼트를 위한 그룹웨어 서비스. (팀 프로젝트)  
 >개발 기간: 2022.12.14 ~ 2023.01.25
 >  
->기술 스택:  
->Java 8 / Spring Boot / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>개발환경 및 라이브러리 :  
+>Java 8 / Spring Boot / Mybatis
+>JSP / HTML / CSS / jQuery / JSON / Ajax
+>MySQL / MariaDB / STS / Docker / Oracle Cloud 
 >  
 >[프로젝트 상세 설명](https://github.com/dev-yujeong/eleven) 참고
