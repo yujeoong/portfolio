@@ -11,7 +11,7 @@
 ## :pushpin: Contact
 - 이메일: dev.yujeong@gmail.com
 - 블로그: https://codingjoy.tistory.com
-- 깃헙: https://github.com/dev-yujeong
+- 깃헙: https://github.com/yujeoong
 
 </br>
 
@@ -28,4 +28,4 @@
 >JSP / HTML / CSS / jQuery / JSON / Ajax  
 >MySQL / MariaDB / STS / Docker / Oracle Cloud  
 >  
->[프로젝트 상세 설명](https://github.com/dev-yujeong/eleven) 참고
+>[프로젝트 상세 설명](https://github.com/yujeoong/groupware) 참고
