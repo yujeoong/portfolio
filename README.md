@@ -52,4 +52,33 @@ Java(8), Spring, Spring Boot, JavaScript, MySQL, MariaDB
 > - 협업을 통해 git 관리의 중요성을 배움
 > - Oracle Cloud 로 프로젝트 배포 방법 학습하여 적용
 
->[프로젝트 상세 설명](https://github.com/yujeoong/groupware) 참고
+>[프로젝트 상세 설명](https://github.com/yujeoong/groupware) 참고  
+  
+  
+### 2. witn kbo
+><b>익명투표, 경매, 포인트 기능 중심의 야구 팬 커뮤니티 (팀 프로젝트)</b>  
+>개발 기간: 2022.10.24 ~ 2022.11.18  
+
+</br>
+
+><b>개발환경 및 라이브러리 :</b>   
+>Java 6 / Spring Framework 4.3.14 / Mybatus 3.4.6   
+>JavaScript / MySQL / MariaDB / STS / Docker  
+
+</br>
+
+><b>주요 기능 :</b> 
+> - 게시판 내 투표 기능 (승부예측, 뉴스반응, 일반투표) 
+> - 적립된 포인트를 통한 경매 참여 기능  
+> - 신고 기능
+
+
+</br>
+
+><b>성과 및 배운점 :</b> 
+> - 제한된 기간 내에 프로젝트를 완성할 수 있도록 일정 관리하는 방법을 깨달음
+> - 협업을 통해 git 관리의 중요성을 배움
+> - MariaDB와 Spring 프로젝트를 연결하는 방법 학습하여 적용
+
+
+>[프로젝트 상세 설명](https://github.com/yujeoong/community) 참고  
