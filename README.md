@@ -34,7 +34,7 @@ Java(8), Spring, Spring Boot, JavaScript, MySQL, MariaDB
 ><b>개발환경 및 라이브러리 :</b>  
 >Java 8 / Spring Boot 2.7.7 / Mybatis  
 >JSP / HTML / CSS / jQuery / JSON / Ajax  
->MySQL / MariaDB / STS / Docker / Oracle Cloud  
+>MariaDB / STS / Docker / Oracle Cloud  
 
 </br>
 
