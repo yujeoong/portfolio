@@ -65,7 +65,7 @@ Java(8), Spring, Spring Boot, JavaScript, MySQL, MariaDB
 
 ><b>개발환경 및 라이브러리 :</b>   
 >Java 6 / Spring Framework 4.3.14 / Mybatus 3.4.6   
->JavaScript / MySQL / MariaDB / STS / Docker  
+>JavaScript / MariaDB / STS / Docker  
 
 </br>
 
